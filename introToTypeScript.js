@@ -1,5 +1,5 @@
 function isAdult(user) {
-    return user.age >= 19;
+    return user.age >= 18;
 }
 var justine = {
     name: 'Justine',
