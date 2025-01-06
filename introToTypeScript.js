@@ -5,4 +5,4 @@ var justine = {
     name: 'Justine',
     age: 'Secret!',
 };
-var isJustineAnAdult = isAdult(justine, "I shouldn't be here!");
+var isJustineAnAdult = isAdult(justine, "I should not be here!");
