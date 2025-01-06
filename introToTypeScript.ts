@@ -12,4 +12,4 @@ const justine: User = {
     age: 'Secret!',
 }
 
-const isJustineAnAdult: string = isAdult(justine, "I shouldn't be here!")
+const isJustineAnAdult: string = isAdult(justine, "I should not be here!")
